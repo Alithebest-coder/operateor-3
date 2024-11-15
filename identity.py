@@ -1,0 +1,20 @@
+a=[1,2,3,4,5]
+b=[2,4,6,8,10]
+c=a
+print()
+print(a is b)
+print()
+print(a is c)
+print()
+print(a is not b )
+print()
+print(a is not c)
+print()
+print(a in b)
+print()
+print(c in a)
+print()
+print(a not in b )
+print()
+print(c not in a)
+print()
